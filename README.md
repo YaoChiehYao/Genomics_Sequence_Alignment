@@ -22,12 +22,10 @@ your sequences <br>
 ## Evaluation:
 1. Based on the visualization, is the sequencing method biased? Explain<br>
 Ans: Yes, after normalization (normalized_density_plot.png), my observation is that there
-is no consistency pattern, and all 22 contigs are very. This insight may indicate a systematic
-bias in the sequencing method.
-
-Also, there are uneven depths across contigs (read_density_plot_updated), and many contigs have 
-sudden drop curves in the start/end position or flat lines, which are also suspicious and might
-be biased.
+is no consistency pattern, and all 22 contigs are very. This insight may indicate a
+systematic bias in the sequencing method. Also, there are uneven depths across contigs
+(read_density_plot_updated), and many contigs have sudden drop curves in the start/end
+position or flat lines, which are also suspicious and might be biased.
 
 
 3. Consider the assumptions you made in your algorithm – what’s the issue?<br>
