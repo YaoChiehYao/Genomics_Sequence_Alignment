@@ -11,7 +11,8 @@ a. Code meets specifications – the function exists and makes correct input and
 output 
 b. No pair of reads are incorrectly merged 
 c. Code generates accurate mapping 
-6) Evaluate the distribution of the reads across each sequence 
+
+Evaluate the distribution of the reads across each sequence 
 a. Create a visualization of your choice that shows the coverage of reads across each of
 your sequences 
 
