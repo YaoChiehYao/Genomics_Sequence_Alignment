@@ -1,6 +1,6 @@
-# Genomics_Sequence_Assembly
+# Genomics_Sequence_Alignment
 ## Description: 
-Write an algorithm for assembling reads from scratch, visualize the read density of contigs,
+Write an algorithm for aligning reads from scratch, visualize the read density of contigs,
 and evaluate the sequencing method by normalizing the density plot.
 
 
